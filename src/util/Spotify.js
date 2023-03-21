@@ -1,5 +1,5 @@
 // fill in your own clientId from Spotify
-const clientId = '';
+const clientId = 'xxxxx';
 const redirectUri = 'http://woebegone-attraction.surge.sh'
 
 let accessToken;
